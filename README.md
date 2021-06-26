@@ -1,4 +1,5 @@
 ## React-2048
+[![GitHub Page](https://github.com/chilearnstocode/react-2048/actions/workflows/ghpage.yml/badge.svg)](https://github.com/chilearnstocode/react-2048/actions/workflows/ghpage.yml)
 
 A React implementation of [2048](https://github.com/gabrielecirulli/2048) built with [Typescript](https://www.typescriptlang.org/) and 💅 [styled-components](https://styled-components.com)
 
